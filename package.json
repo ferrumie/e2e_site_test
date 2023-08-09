@@ -1,0 +1,22 @@
+{
+  "name": "e2e_site_test",
+  "version": "1.0.0",
+  "description": "End to End Testing of the Butopea website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ferrumie/e2e_site_test.git"
+  },
+  "author": "feranmi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ferrumie/e2e_site_test/issues"
+  },
+  "homepage": "https://github.com/ferrumie/e2e_site_test#readme",
+  "devDependencies": {
+    "cypress": "^12.17.3"
+  }
+}
